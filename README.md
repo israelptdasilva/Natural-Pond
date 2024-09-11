@@ -35,7 +35,7 @@ The idea to build a pond came about in 2015 when I watched [David Pagan's](https
 <img src="https://github.com/user-attachments/assets/da4e1123-a1be-477d-857e-a30d55f256dc" alt="description of image" title="optional title" width=500/>
 </div>
 
-### Addimg Water
+### Adding Water
 ##
 
 https://github.com/user-attachments/assets/9c103bcb-b13d-45dc-942f-d0f4ca71d8fb
